@@ -1,1 +1,50 @@
+1.按项目名称/仓库名称搜索（不区分大小写）   
+ 命令 in:name xxx
 
+示范：
+
+in:name tensorflow
+
+
+
+2.按照readme搜索（不区分大小写）
+命令  in:readme
+
+示范: 
+
+in:readme keras
+
+
+
+3.按照描述description搜索（不区分大小写）
+in:description xxx
+
+示范： 
+
+in in:description 安卓
+
+4.筛选stars/forks数量大于x的项目
+示范：
+
+stars:> 1000
+
+forks:> 1000
+
+
+
+5.采用了哪种编程语言
+示范：
+
+language:python
+
+6.最新的更新时间
+pushed:>YYYY-MM-DD
+
+示范：
+
+pushed:>2020-04-16
+
+
+————————————————
+版权声明：本文为CSDN博主「resumebb」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/qq_41573860/article/details/107322613
