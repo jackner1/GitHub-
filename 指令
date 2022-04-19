@@ -1,0 +1,16 @@
+
+命令：                     
+in:name xxx             
+in:readme xxx
+in:description xxx
+stars:>xxx
+forks:>xxx
+language:xxx    
+pushed:>yy-mm-dd   (最近更新时间）
+
+sample:
+in:name tensorflow in:readme keras in：description 安卓 stars:>1000 language:python pushed:>2021-10-01
+
+注:各种命令可组合使用
+
+
